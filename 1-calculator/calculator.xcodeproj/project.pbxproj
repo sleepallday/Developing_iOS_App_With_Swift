@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0B3199C32173605C00051A30 /* CalculatorBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B3199C22173605C00051A30 /* CalculatorBrain.swift */; };
 		8F24A1252140C2A900F63EBD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F24A1242140C2A900F63EBD /* AppDelegate.swift */; };
 		8F24A1272140C2A900F63EBD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F24A1262140C2A900F63EBD /* ViewController.swift */; };
 		8F24A12A2140C2A900F63EBD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8F24A1282140C2A900F63EBD /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0B3199C22173605C00051A30 /* CalculatorBrain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = CalculatorBrain.swift; path = calculator/CalculatorBrain.swift; sourceTree = "<group>"; };
 		8F24A1212140C2A900F63EBD /* calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8F24A1242140C2A900F63EBD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8F24A1262140C2A900F63EBD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -77,6 +79,7 @@
 		8F24A1182140C2A900F63EBD = {
 			isa = PBXGroup;
 			children = (
+				0B3199C22173605C00051A30 /* CalculatorBrain.swift */,
 				8F24A1232140C2A900F63EBD /* calculator */,
 				8F24A1382140C2AA00F63EBD /* calculatorTests */,
 				8F24A1432140C2AA00F63EBD /* calculatorUITests */,
@@ -256,6 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0B3199C32173605C00051A30 /* CalculatorBrain.swift in Sources */,
 				8F24A1272140C2A900F63EBD /* ViewController.swift in Sources */,
 				8F24A1252140C2A900F63EBD /* AppDelegate.swift in Sources */,
 			);
